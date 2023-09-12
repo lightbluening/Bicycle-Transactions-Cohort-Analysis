@@ -7,3 +7,4 @@ Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisatio
 Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
 The client provided KPMG with 3 datasets:Customer Demographic,Customer Addresses,Transactions data in the past 3 months
 
+![image](https://github.com/lightbluening/Bicycle-Transactions-Cohort-Analysis/assets/93415125/d6768e1e-7ade-4cd3-8403-7d24f30aeaf9)
